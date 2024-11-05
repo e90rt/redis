@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DistributedQueue.Scheduler")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d36846b25d5560a8833cf9f2b5ec03c4ca25f29f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a56c33d9b8543303e87fe82401fdfae0c1ee238d")]
 [assembly: System.Reflection.AssemblyProductAttribute("DistributedQueue.Scheduler")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DistributedQueue.Scheduler")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
