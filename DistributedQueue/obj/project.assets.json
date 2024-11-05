@@ -356,19 +356,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\amirk\\.nuget\\packages\\": {}
+    "C:\\Users\\egorc\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\amirk\\OneDrive\\Рабочий стол\\DQ\\DistributedQueue\\DistributedQueue.Scheduler.csproj",
+      "projectUniqueName": "C:\\Users\\egorc\\Desktop\\asvt\\SecondLabForASVT\\DistributedQueue\\DistributedQueue.Scheduler.csproj",
       "projectName": "DistributedQueue.Scheduler",
-      "projectPath": "C:\\Users\\amirk\\OneDrive\\Рабочий стол\\DQ\\DistributedQueue\\DistributedQueue.Scheduler.csproj",
-      "packagesPath": "C:\\Users\\amirk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\amirk\\OneDrive\\Рабочий стол\\DQ\\DistributedQueue\\obj\\",
+      "projectPath": "C:\\Users\\egorc\\Desktop\\asvt\\SecondLabForASVT\\DistributedQueue\\DistributedQueue.Scheduler.csproj",
+      "packagesPath": "C:\\Users\\egorc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\egorc\\Desktop\\asvt\\SecondLabForASVT\\DistributedQueue\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\amirk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\egorc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -376,14 +381,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\amirk\\OneDrive\\Рабочий стол\\DQ\\DistributedQueue.Common\\DistributedQueue.Common.csproj": {
-              "projectPath": "C:\\Users\\amirk\\OneDrive\\Рабочий стол\\DQ\\DistributedQueue.Common\\DistributedQueue.Common.csproj"
+            "C:\\Users\\egorc\\Desktop\\asvt\\SecondLabForASVT\\DistributedQueue.Common\\DistributedQueue.Common.csproj": {
+              "projectPath": "C:\\Users\\egorc\\Desktop\\asvt\\SecondLabForASVT\\DistributedQueue.Common\\DistributedQueue.Common.csproj"
             }
           }
         }

@@ -14,20 +14,17 @@ namespace DistributedQueue.Common
             var iterrationsToCheck = 1000000;
             var iterrationCurrent = 0;
             string[] strings = {
-                    "Pizza",
-                    "Sushi",
-                    "Tacos",
-                    "Pasta",
-                    "Burger",
-                    "Caesar Salad",
-                    "Chicken Rice",
-                    "Shish Kebab",
-                    "Falafel",
-                    "Kebab"
+                    "жим штанги лежа",
+                    "жим ногами",
+                    "приседания со штангой",
+                    "сгибания на бицепс",
+                    "разведения в кроссовере",
+                    "отжимания",
+                    "подтягивания"
                 };
             for (int i = 0; i < iterrations; i++)
             {
-                Console.WriteLine($"{DateTime.Now}: Compute task: {name} He is like {strings[i%10]}");
+                Console.WriteLine($"{DateTime.Now}: Compute task: {name} делает {strings[i%10]}");
                 Thread.Sleep(1000);
             }
 

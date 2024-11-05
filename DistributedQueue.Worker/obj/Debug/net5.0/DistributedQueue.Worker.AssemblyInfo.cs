@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DistributedQueue.Worker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d36846b25d5560a8833cf9f2b5ec03c4ca25f29f")]
 [assembly: System.Reflection.AssemblyProductAttribute("DistributedQueue.Worker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DistributedQueue.Worker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -8,3 +8,14 @@ C:\Users\amirk\OneDrive\Рабочий стол\DQ\DistributedQueue.Common\obj\D
 C:\Users\amirk\OneDrive\Рабочий стол\DQ\DistributedQueue.Common\obj\Debug\netstandard2.1\DistributedQueue.Common.csproj.CoreCompileInputs.cache
 C:\Users\amirk\OneDrive\Рабочий стол\DQ\DistributedQueue.Common\obj\Debug\netstandard2.1\DistributedQueue.Common.dll
 C:\Users\amirk\OneDrive\Рабочий стол\DQ\DistributedQueue.Common\obj\Debug\netstandard2.1\DistributedQueue.Common.pdb
+C:\Users\egorc\Desktop\asvt\SecondLabForASVT\DistributedQueue.Common\bin\Debug\netstandard2.1\DistributedQueue.Common.deps.json
+C:\Users\egorc\Desktop\asvt\SecondLabForASVT\DistributedQueue.Common\bin\Debug\netstandard2.1\DistributedQueue.Common.dll
+C:\Users\egorc\Desktop\asvt\SecondLabForASVT\DistributedQueue.Common\bin\Debug\netstandard2.1\DistributedQueue.Common.pdb
+C:\Users\egorc\Desktop\asvt\SecondLabForASVT\DistributedQueue.Common\obj\Debug\netstandard2.1\DistributedQueue.Common.csproj.AssemblyReference.cache
+C:\Users\egorc\Desktop\asvt\SecondLabForASVT\DistributedQueue.Common\obj\Debug\netstandard2.1\DistributedQueue.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egorc\Desktop\asvt\SecondLabForASVT\DistributedQueue.Common\obj\Debug\netstandard2.1\DistributedQueue.Common.AssemblyInfoInputs.cache
+C:\Users\egorc\Desktop\asvt\SecondLabForASVT\DistributedQueue.Common\obj\Debug\netstandard2.1\DistributedQueue.Common.AssemblyInfo.cs
+C:\Users\egorc\Desktop\asvt\SecondLabForASVT\DistributedQueue.Common\obj\Debug\netstandard2.1\DistributedQueue.Common.csproj.CoreCompileInputs.cache
+C:\Users\egorc\Desktop\asvt\SecondLabForASVT\DistributedQueue.Common\obj\Debug\netstandard2.1\DistributedQueue.Common.sourcelink.json
+C:\Users\egorc\Desktop\asvt\SecondLabForASVT\DistributedQueue.Common\obj\Debug\netstandard2.1\DistributedQueue.Common.dll
+C:\Users\egorc\Desktop\asvt\SecondLabForASVT\DistributedQueue.Common\obj\Debug\netstandard2.1\DistributedQueue.Common.pdb
